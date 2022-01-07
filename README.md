@@ -1,6 +1,8 @@
-# Webpack Template
+# Http Project
 
-This is a basic template of webpack with babel
+This is a project to practice a concepts like conections to http, crud, upload images to servers, etc. We use ESNext so i had to use @babel/polyfill into webpack.
+
+➡ [Go to the project](https://luisangel2895.github.io/js-practice-http/)
 
 ### Start
 
@@ -20,4 +22,10 @@ npm run build:dev
 
 ```js
 npm run build
+```
+
+If we want to run the webpack server (the project run in port: 1234)
+
+```js
+npm start
 ```
