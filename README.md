@@ -4,6 +4,8 @@ This is a project to practice a concepts like conections to http, crud, upload i
 
 ➡ [Go to the project](https://luisangel2895.github.io/js-practice-http/)
 
+![project](https://github.com/luisangel2895/js-practice-http/blob/8c77241e56b137aeaf719fd958335cc0da3ad744/images/Screenshot_39.png)
+
 ### Start
 
 To start, first we need to install the node modules with:
